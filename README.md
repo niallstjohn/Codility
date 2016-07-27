@@ -53,3 +53,14 @@
 * Correctness: 100%
 * Performance: 100%
 * Task Score: 100%
+
+### PermMissingElem
+
+* Test Link: https://codility.com/programmers/task/perm_missing_elem/
+* Result Link: https://codility.com/demo/results/trainingNQ95WQ-F48/
+* Codility Level: Painless
+* Detected time complexity: O(N)
+* Correctness: 100%
+* Performance: 100%
+* Task Score: 100%
+
