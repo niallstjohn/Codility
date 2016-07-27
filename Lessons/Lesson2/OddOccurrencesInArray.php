@@ -43,6 +43,7 @@ Elements of input arrays can be modified.
 */
 
 /*
+Test Link: https://codility.com/programmers/task/odd_occurrences_in_array/
 Result Link: https://codility.com/demo/results/trainingCZKC43-XXK/
 Codility Level: Painless
 Detected time complexity: O(N)
