@@ -22,7 +22,7 @@
 * Performance: 100%
 * Task Score: 100%
 
-### OddOccurrencesInArray.php
+### OddOccurrencesInArray
 
 * Test Link: https://codility.com/programmers/task/odd_occurrences_in_array/
 * Result Link: https://codility.com/demo/results/trainingCZKC43-XXK/
@@ -40,6 +40,16 @@
 * Result Link: https://codility.com/demo/results/trainingYGHFBA-6FW/
 * Codility Level: Painless
 * Detected time complexity: O(N)
+* Correctness: 100%
+* Performance: 100%
+* Task Score: 100%
+
+### FrogJmp
+
+* Test Link: https://codility.com/programmers/task/frog_jmp/
+* Result Link: https://codility.com/demo/results/trainingZFTK9A-FYP/
+* Codility Level: Painless
+* Detected time complexity: O(1)
 * Correctness: 100%
 * Performance: 100%
 * Task Score: 100%
