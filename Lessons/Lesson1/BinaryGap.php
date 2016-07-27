@@ -28,6 +28,7 @@ expected worst-case space complexity is O(1).
 */
 
 /*
+Test Link: https://codility.com/programmers/task/binary_gap/
 Result Link: https://codility.com/demo/results/trainingJCUH5S-3PQ/
 Codility Level: Painless
 Correctness: 100%
