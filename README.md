@@ -64,3 +64,14 @@
 * Performance: 100%
 * Task Score: 100%
 
+## Lesson 4
+
+### FrogRiverOne
+
+* Test Link: https://codility.com/programmers/task/frog_river_one/
+* Result Link: https://codility.com/demo/results/training4UFUVB-JBW/
+* Codility Level: Painless
+* Detected time complexity: O(N)
+* Correctness: 100%
+* Performance: 100%
+* Task Score: 100%
