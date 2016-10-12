@@ -70,3 +70,23 @@ Correctness: 100%
 Performance: 100%
 Task Score: 100%
 */
+
+function solution($A) {
+
+    $storage = [];
+    
+    foreach ($A as $key => $val) {
+        
+        $storage[$val] = 1;
+        
+        if ($val > count($A))
+            return 0;
+        
+    }
+    
+    if (count($storage) == count($A))
+        return 1;
+        
+    return 0;
+
+}
